@@ -1,6 +1,6 @@
 FROM python:3.9-slim
 
-WORKDIR /home/otagouni/yuan_obesity/notebooks
+WORKDIR ./notebooks
 
 RUN apt-get update && apt-get install -y \
     build-essential \
