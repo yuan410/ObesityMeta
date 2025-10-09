@@ -3,7 +3,7 @@ This repository contains the datasets, code scripts, and instructions for runnin
 Please note that this repository provides MOCK datasets and scripts. **For the actual code implementation, refer to the Docker image as outlined in the instructions below.**
 - The full mock dataset can be found in `datasets/MOCKED_data`.
 - The demo mock dataset is available in `datasets/Demo_MOCKED_data`.
-- The code script is in 'notebooks/'
+- The code script is in 'CodeScript.ipynb'
 Please be aware that using the mock data may lead to results different from those reported in the paper, as the actual study uses real data. The demo dataset is provided solely for the purpose of running the code scripts and should not be used to draw any scientific conclusions, as the results generated are not representative of the actual findings.
 
 # System Requirements
